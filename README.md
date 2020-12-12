@@ -19,7 +19,7 @@
 <br>
 <br>
 ### Take a look 👇
-[![Litollscafe](https://img.shields.io/badge/Maruf's-Featured%20Project-blueviolet)](https://restaurent-d4n60a.turbo360-vertex.com/)
+[![Litollscafe](https://img.shields.io/badge/Maruf's-Featured%20Project-blueviolet)](https://weirdomino.netlify.app/)
 
 
 
