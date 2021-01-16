@@ -19,7 +19,7 @@
 <br>
 <br>
 ### Take a look 👇
-[![Litollscafe](https://img.shields.io/badge/Maruf's-Featured%20Project-blueviolet)](https://weirdomino.netlify.app/)
+[![SecretThoughts](https://img.shields.io/badge/Maruf's-Featured%20Project-blueviolet)](https://secretthoughts.herokuapp.com/)
 
 
 
