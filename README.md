@@ -19,7 +19,7 @@
 <br>
 <br>
 ### Take a look 👇
-[![SecretThoughts](https://img.shields.io/badge/Maruf's-Portfolio)](https://solivagant.netlify.app/)
+[![SecretThoughts](https://img.shields.io/badge/Maruf's-Portfolio-blueviolet)](https://solivagant.netlify.app/)
 
 
 
