@@ -19,7 +19,7 @@
 <br>
 <br>
 ### Take a look 👇
-[![SecretThoughts](https://img.shields.io/badge/Maruf's-Featured%20Project-blueviolet)](https://secretthoughts.herokuapp.com/)
+[![SecretThoughts](https://img.shields.io/badge/Maruf's-Portfolio)](https://solivagant.netlify.app/)
 
 
 
